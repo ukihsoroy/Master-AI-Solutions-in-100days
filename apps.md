@@ -12,3 +12,6 @@ https://gamma.app/docs/-cwvi75wgdrih3hx?mode=doc
 
 ## https://trickle.so/
 vibe coding类产品，支持一句话生成系统
+
+## Sierra
+Bret Taylor，看他的一些访谈；硅谷的传奇人物。最早发明按效果付费的商业模式，可以看一些关于他的思考。
